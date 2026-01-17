@@ -1,0 +1,16 @@
+16;kasımpatı;pembe;0;200;1776239
+20;gül;kırmızı;300;150;800
+21;papatya;beyaz;150;70;941
+22;amcık çiçeği;mor;150;100;0
+23;orkide;beyaz;370;80;30
+24;ayçiçeği;sarı;850;130;0
+25;lavanta;mor;370;120;0
+26;zambak;kırmızı;250;50;0
+27;karanfil;kırmızı;410;200;0
+28;kaktüs;yeşil;400;240;0
+29;şakayık;pembe;300;30;0
+30;frezya;sarı;100;90;0
+31;petunya;kapalı mor;600;210;460
+32;açelya;açık pembe;249;133;0
+33;akşam sefası;sarı ve pembe;399;140;10
+34;ATATÜRK ÇİÇEĞİ;mor;5000;250;5000
