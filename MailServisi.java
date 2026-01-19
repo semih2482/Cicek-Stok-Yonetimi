@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class MailServisi {
 
-    private final String GONDEREN_MAIL = "oktayar40@gmail.com";
+    private final String GONDEREN_MAIL = "example@gmail.com";
     private final String GONDEREN_SIFRE = "ksuu tcdm hcym euty";
 
     public boolean mailGonder(String aliciMail, String kod) {
